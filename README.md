@@ -344,7 +344,8 @@ We welcome contributions! Please follow these steps:
 
 ## Contributors
 
-- **keneni Abebe** - Initial development and hackathon submission -**samuel mandefro**
+- **keneni Abebe** - Initial development and hackathon submission (keneniabebe30@gmail.com)
+  **samuel mandefro** (Samison9698@gmail.com)
 
 ### Completed Checklist Items
 
